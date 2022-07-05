@@ -106,6 +106,9 @@ h4 span{
 }
 .icone-teste {
     padding-right: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .icone-teste span{
    
